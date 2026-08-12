@@ -1,7 +1,7 @@
 <h1>Hi there soy Andy Yamarte👋</h1>
 <br>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://ibb.co/zVJH7w1W">
+<img href="https://ibb.co/zVJH7w1W"><img src="https://i.ibb.co/B2NKrRmH/logo-andy-dev.jpg" alt="logo-andy-dev" border="0">
 
 <h3>🚀💻 Technologies and tools</h3>
 
