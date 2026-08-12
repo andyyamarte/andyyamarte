@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🚀💻 Technologies & Tools
-
-### <u> Languages: </u>
+## 🚀💻 Technologies & tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### <u> Tecnologias y herramientas: </u>
 
 
 <br>
@@ -24,7 +24,11 @@
 <br>
 <br>
 <br>
-### <u> Frontend Development Technologies and Tools: </u>
+
+
+## 🚀💻 Fronted
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### <u>Frente: </u>
 
 <br>
 <p align=center>
@@ -42,8 +46,11 @@
     
 <!--END_SECTION:colourise-->
 
+## 🚀💻 others Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#### Otras Herramientas:
 
-#### Herramientas
+
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
