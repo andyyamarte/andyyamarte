@@ -2,7 +2,7 @@
 
 
 
-## 🚀💻 Technologies and tools
+<h1>🚀💻 Technologies and tools</h1>h1>
 
 ### <u> Tecnologías y herramientas: </u>
 
