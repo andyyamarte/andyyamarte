@@ -2,7 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+## 🚀💻 Technologies & Tools
 
+### <u> Languages: </u>
+
+<br>
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
