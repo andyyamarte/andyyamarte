@@ -2,7 +2,7 @@
 
 
 
-## 🚀💻 Technologies and
+## 🚀💻 Technologies and tools
 
 ### <u> Tecnologías y herramientas: </u>
 
@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
 
