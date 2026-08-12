@@ -2,9 +2,9 @@
 
 
 
-## 🚀💻 Technologies & tools
+## 🚀💻 Technologies and
 
-### <u> Tecnologias y herramientas: </u>
+### <u> Tecnologías y herramientas: </u>
 
 
 <br>
