@@ -1,8 +1,8 @@
-## Hi there soy Andy Yamarte👋
+</h1>Hi there soy Andy Yamarte👋<h1>
 
 
 
-<h1>🚀💻 Technologies and tools</h1>h1>
+<h3>🚀💻 Technologies and tools</h3>
 
 ### <u> Tecnologías y herramientas: </u>
 
