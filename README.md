@@ -1,7 +1,7 @@
 <h1>Hi there soy Andy Yamarte👋</h1>
 <br>
 <h3>🚀💻 Technologies and tools</h3>
-## <u> Tecnologías y herramientas: </u>
+### <u>Tecnologia y herramientas: </u>
 
 <br>
 <!--START_SECTION:colourise-->
