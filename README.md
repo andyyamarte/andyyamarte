@@ -7,6 +7,8 @@
 ### <u> Languages: </u>
 
 <br>
+<br>
+<br>
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
@@ -20,7 +22,9 @@
 
 </p>
 
-
+<br>
+<br>
+<br>
 ### <u> Frontend Development Technologies and Tools: </u>
 
 <br>
@@ -33,10 +37,9 @@
 
 </p>
 
-   
-   
-
-
+<br>
+<br>
+<br>
     
 <!--END_SECTION:colourise-->
 
