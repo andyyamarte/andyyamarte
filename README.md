@@ -1,7 +1,9 @@
 <h1>Hi there soy Andy Yamarte👋</h1>
 <br>
 <h3 align="center">Una apasionada persona de Venezuela viviendo en España</h3>
-<img href="https://ibb.co/zVJH7w1W"><img src="https://i.ibb.co/B2NKrRmH/logo-andy-dev.jpg" alt="logo-andy-dev" border="0">
+<p align="center">
+  <img src="https://i.ibb.co/B2NKrRmH/logo-andy-dev.jpg" alt="logo-andy-dev" border="0" />
+</p>
 
 <h3>🚀💻 Technologies and tools</h3>
 
