@@ -7,9 +7,10 @@
 <p align=center>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
     alt="JavaScript" /> 
+<img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/>
+
 
 </p>
 
