@@ -1,9 +1,9 @@
 ## Hi there 👋
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 ## 🚀💻 Technologies & tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### <u> Tecnologias y herramientas: </u>
 
 
@@ -15,9 +15,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
- 
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
 
@@ -27,7 +26,7 @@
 
 
 ## 🚀💻 Fronted
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### <u>Frente: </u>
 
 <br>
@@ -39,7 +38,7 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
@@ -47,7 +46,7 @@
 <!--END_SECTION:colourise-->
 
 ## 🚀💻 others Tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 #### Otras Herramientas:
 
 
@@ -59,7 +58,7 @@
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" 
     alt="Figma" 
   />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
 **andyyamarte/andyyamarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1> andy yamarte</h1>
