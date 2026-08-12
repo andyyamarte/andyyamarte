@@ -1,11 +1,7 @@
 <h1>Hi there soy Andy Yamarte👋</h1>
-
-
-
+<br>
 <h3>🚀💻 Technologies and tools</h3>
-
 ### <u> Tecnologías y herramientas: </u>
-
 
 <br>
 <!--START_SECTION:colourise-->
@@ -21,7 +17,7 @@
 
 <br>
 
-## 🚀💻 Fronted
+<h3>🚀💻 Fronted</h3>
 
 ### <u>Frente: </u>
 
@@ -40,7 +36,7 @@
     
 <!--END_SECTION:colourise-->
 
-## 🚀💻 others Tools
+<h3>🚀💻 others Tools</h3>
 
 #### Otras Herramientas:
 
